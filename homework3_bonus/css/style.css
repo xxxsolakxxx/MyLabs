@@ -1,0 +1,54 @@
+body {
+	background: #070707 url(../img/bg.png) no-repeat;
+	background-size: 100%;
+	margin-left: 70px;
+	margin-right: 70px;
+}
+
+.logo {
+	margin-left: 70px;
+	margin-top: 54px;
+}
+
+.img img {
+	float: left;
+	border: 2px solid white; /* Рамка вокруг фотографии */
+    padding: 0px; /* Расстояние от картинки до рамки */
+    margin-right: 10px; /* Отступ справа */
+    
+
+}
+.img figcaption {
+	color: white;
+	text-align: center;
+	width: 10%;
+}
+
+.img1 img {
+	float: left;
+	border: 2px solid white; /* Рамка вокруг фотографии */
+    padding: 0px; /* Расстояние от картинки до рамки */
+    margin-right: 10px; /* Отступ справа */
+    
+
+}
+.img2 img {
+	border: 2px solid white; /* Рамка вокруг фотографии */
+    padding: 0px; /* Расстояние от картинки до рамки */
+    margin-right: 10px; /* Отступ справа */
+    
+}
+
+
+}
+.footer{
+	color: white;
+	margin-top: 190px;
+	margin-left: 530px;
+}
+.contact{
+	color: white;
+	display: inline-block;
+	margin-left: 700px;
+	margin-bottom: 20px;
+}
